@@ -11,5 +11,5 @@ double func(int s,d){
 void main(){
     
    
-    print(func(16,3));
+    print(func(24,6));
 }
