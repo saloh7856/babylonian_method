@@ -1,7 +1,7 @@
 // babyloniam method
 // create function named func with arguments a and b
 // The variables are S and d given
-double func(int s,d){
+double func(int s,int d){
     double a,b,x;
     a=(s-d*d)/(2*d);
     b=a+d;
