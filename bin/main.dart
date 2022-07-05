@@ -10,5 +10,6 @@ double func(int s,d){
 }
 void main(){
     
+   
     print(func(16,3));
 }
