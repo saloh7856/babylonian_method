@@ -9,7 +9,5 @@ double func(int s,int d){
     return x;
 }
 void main(){
-    
-   
-    print(func(24,6));
+    print(func(16,3));
 }
